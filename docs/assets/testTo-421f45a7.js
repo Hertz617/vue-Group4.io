@@ -1,0 +1,1 @@
+import{_ as s,d as n,o as r,h as p,i as a}from"./index-1ed31e3c.js";const u=n({methods:{toJump(){this.$router.push({path:"/testGet",query:{id:"1"}})}}});function d(t,e,i,m,c,f){return r(),p("div",null,[a("button",{onClick:e[0]||(e[0]=(...o)=>t.toJump&&t.toJump(...o))},"跳转页面传值")])}const _=s(u,[["render",d]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{n as o}from"./index-1ed31e3c.js";const e=t=>o.request({url:"api/copyright/page",method:"post",data:t}),p=t=>o.request({url:"api/copyright/add",method:"post",data:t}),s=t=>o.request({url:"api/copyright/edit",method:"post",data:t}),i=t=>o.request({url:"api/copyright/one",method:"post",params:t});export{s as a,e as b,p as c,i as d};
